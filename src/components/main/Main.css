@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-right: 5px;
+  align-items: center;
+}
+
+.imgStyle {
+  width: 150px;
+  border: 2px solid black;
+  border-radius: 20px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.imgStyle:hover {
+  opacity: 1;
+}
